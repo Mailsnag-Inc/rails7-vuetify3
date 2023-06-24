@@ -7,8 +7,10 @@
     "vite-plugin-vuetify": "^1.0.2"
   },
   "dependencies": {
+    "@hotwired/turbo-rails": "^7.3.0",
     "@mdi/js": "^7.2.96",
     "vue": "^3.3.4",
+    "vue-turbolinks": "^2.2.2",
     "vuetify": "^3.3.5"
   }
 }
